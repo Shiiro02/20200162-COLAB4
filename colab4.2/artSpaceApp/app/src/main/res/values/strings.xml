@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    // Image Descriptions (contentDescription)
+    <string name="anime__aot_description">Attack on Titan Final Season</string>
+    <string name="anime__bsd_description">Bungo Stray Dogs</string>
+    <string name="anime_mushoku_description">Mushoku Tensei Jobless Reincarnation</string>
+    <string name="anime__jk_description">Jujutsu Kaisen</string>
+
+    // Image Titles
+    <string name="anime__aot_title">Attack on Titan Final Season\n</string>
+    <string name="anime__bsd_title">Bungo Stray Dogs\n</string>
+    <string name="anime__mushoku_title">Mushoku Tensei Jobless Reincarnation\n</string>
+    <string name="anime__jk_title">Jujutsu Kaisen\n</string>
+
+    // Image Genre
+    <string name="author__aot">"Hajime Isayama "</string>
+    <string name="author__bsd">"Kafka Asagiri, Sango Harukawa "</string>
+    <string name="author__mushoku">"Rifujin na Magonote" "</string>
+    <string name="author__jk">"Gege Akutami "</string>
+
+
+    // Image Release Years
+    <string name="twentytwentyone">(2021)</string>
+    <string name="twentytwentytwo">(2022)</string>
+    <string name="twentytwentythree">(2023)</string>
+
+    // Buttons
+    <string name="next_button">Siguiente</string>
+    <string name='previous_button'>Anterior</string>
+</resources>
